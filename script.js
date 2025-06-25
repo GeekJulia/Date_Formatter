@@ -7,3 +7,5 @@ const month = date.getMonth() + 1
 const year = date.getFullYear()
 const hours = getHours();
 const minutes = date.getMinutes();
+
+const formattedDate = `${day}`
