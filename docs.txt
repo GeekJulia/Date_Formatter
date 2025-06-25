@@ -1,3 +1,9 @@
 The Date object has a number of methods that allow you to get the date and time in different formats.
+
+GetDate();
 One of those is the .getDate() method, which returns a number between 1 and 31 that represents 
 the day of the month for that date.
+
+GetMonth();
+The .getMonth() method returns a number between 0 and 11. This represents the month for the date provided, 
+where 0 is January and 11 is December.
