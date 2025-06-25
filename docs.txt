@@ -7,3 +7,6 @@ the day of the month for that date.
 GetMonth();
 The .getMonth() method returns a number between 0 and 11. This represents the month for the date provided, 
 where 0 is January and 11 is December.
+
+GetYear();
+The .getFullYear() method returns a number which represents the year for the provided date.
