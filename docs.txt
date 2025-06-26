@@ -17,3 +17,7 @@ This represents the hour for the provided date, where 0 is midnight and 23 is 11
 
 GetMinutes();
 The .getMinutes() method returns a number between 0 and 59 which represents the minutes for the provided date.
+
+SWITCH
+A switch statement is used to compare an expression against multiple possible values and 
+execute different code blocks based on the match. It's commonly used for branching logic.
