@@ -26,3 +26,7 @@ SPLIT()
 The split() method is used to divide a string into substrings based on a specified separator. 
 It then returns these substrings as elements of an array.
 The split method takes in a parameter known as a separator. The separator is used to tell the computer where each split should occur.
+
+To reverse an array of elements, you can use the reverse method. 
+This method reverses the order of the elements in the array in place. 
+The first element becomes the last, and the last element becomes the first.
