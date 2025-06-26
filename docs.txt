@@ -21,3 +21,8 @@ The .getMinutes() method returns a number between 0 and 59 which represents the 
 SWITCH
 A switch statement is used to compare an expression against multiple possible values and 
 execute different code blocks based on the match. It's commonly used for branching logic.
+
+SPLIT()
+The split() method is used to divide a string into substrings based on a specified separator. 
+It then returns these substrings as elements of an array.
+The split method takes in a parameter known as a separator. The separator is used to tell the computer where each split should occur.
