@@ -30,3 +30,7 @@ The split method takes in a parameter known as a separator. The separator is use
 To reverse an array of elements, you can use the reverse method. 
 This method reverses the order of the elements in the array in place. 
 The first element becomes the last, and the last element becomes the first.
+
+JOIN()
+Similar to the split method, the join method also takes an optional separator.
+ If you don't provide a separator, the default separator is a comma.
