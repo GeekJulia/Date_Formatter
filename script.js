@@ -21,5 +21,5 @@ dateOptionsSelectElement.addEventListener('change', () => {
       break;
     default:
       currentDateParagraph.textContent = formattedDate
-  }
+  }//looking for my commits
 })
